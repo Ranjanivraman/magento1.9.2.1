@@ -1,0 +1,2 @@
+<?xml version="1.0"?>
+<config><acl><resources><resource id="Prettylittlethingcom_Commercebug::admin"><resource id="Prettylittlethingcom_Commercebug::system"><resource id="Prettylittlethingcom_Commercebug::config"><resource id="Prettylittlethingcom_Commercebug::commercebug" title="Configuration for Advanced Debugger"/></resource></resource></resource></resources></acl></config>
